@@ -1,0 +1,253 @@
+.body
+{
+	height: 100%;
+	width: 100%;
+	
+}
+.header
+{
+	height: 20%;
+	width: 50%;
+	background:  #0e6655  ;
+	left: 25%;
+	top:2%;
+	position:fixed;
+}
+.logo
+{
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 40px;
+	top: 2%;
+	left:2%;
+	position:absolute;
+	display: inline-block;
+}
+.container
+{
+		height: 10%;
+		position:absolute;
+		top: 3%;
+		left: 75%;
+}
+.call
+{
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	position: absolute;
+	top: 80%;
+	left: 5%;
+	display: inline-block;
+}
+.chat
+{
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	position: absolute;
+	top: 80%;
+	left: 42%;
+	display: inline-block;
+}
+.contact
+{
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	position: absolute;
+	top: 80%;
+	left: 80%;
+	display: inline-block;
+}
+.content
+{
+	width: 50%;
+	background:   #ebf5fb;
+	left: 25%;
+	top:22%;
+	position: absolute;
+}
+.di1
+{
+	
+	position:absolute;
+	left:5%;
+	display: inline-block;
+	top:1%;
+}
+.di
+{
+	position:relative;
+	left:120;
+	top:5;
+}
+.madhu1
+{
+	
+	position:absolute;
+	left:5%;
+	display: inline-block;
+}
+.madhu
+{
+	position:relative;
+	left:120;
+	
+}
+.niki1
+{
+	
+	position:absolute;
+	left:5%;
+	display: inline-block;
+}
+.niki
+{
+	position:relative;
+	left:120;
+	
+}
+.arpi1
+{
+	
+	position:absolute;
+	left:5%;
+	display: inline-block;
+}
+.arpi
+{
+	position:relative;
+	left:120;
+	
+}
+.grp1
+{
+	
+	position:absolute;
+	left:5%;
+	display: inline-block;
+}
+.grp
+{
+	position:relative;
+	left:120;
+	
+}
+.rohit1
+{
+	
+	position:absolute;
+	left:5%;
+	display: inline-block;
+}
+.rohit
+{
+	position:relative;
+	left:120;
+	
+}
+.nisha1
+{
+	
+	position:absolute;
+	left:5%;
+	display: inline-block;
+}
+.nisha
+{
+	position:relative;
+	left:120;
+}	
+.vb1
+{
+	
+	position:absolute;
+	left:5%;
+	display: inline-block;
+}
+.vb
+{
+	position:relative;
+	left:120;
+	
+}
+.group1
+{
+	
+	position:absolute;
+	left:5%;
+	display: inline-block;
+}
+.group
+{
+	position:relative;
+	left:120;
+	
+}
+.dikshi1
+{
+	
+	position:absolute;
+	left:5%;
+	display: inline-block;
+}
+.dikshi
+{
+	position:relative;
+	left:120;
+	
+}
+.gunu1
+{
+	
+	position:absolute;
+	left:5%;
+	display: inline-block;
+}
+.gunu
+{
+	position:relative;
+	left:120;
+	
+}
+.bro1
+{
+	
+	position:absolute;
+	left:5%;
+	display: inline-block;
+}
+.bro
+{
+	position:relative;
+	left:120;
+	
+}
+.guni1
+{
+	
+	position:absolute;
+	left:5%;
+	display: inline-block;
+}
+.guni
+{
+	position:relative;
+	left:120;
+	
+}
+.sweety1
+{
+	
+	position:absolute;
+	left:5%;
+	display: inline-block;
+}
+.sweety
+{
+	position:relative;
+	left:120;
+	
+}
+
